@@ -40,7 +40,8 @@ Required packages:
 - If connection length falls less than 3 packets, this code will fail (due to trigram calculation).
 - If number of clusters are 0 for some reason, this code will fail.
 
-### If you use MalPaCA in a scientific work, please cite the following paper:
+**If you use MalPaCA in a scientific work, please cite the following paper:**
+
 _Beyond Labeling: Using Clustering to Build Network Behavioral Profiles of Malware Families. Azqa Nadeem, Christian Hammerschmidt, Carlos H. Ganan, Sicco Verwer. In Malware Analysis using Artificial Intelligence and Deep Learning, Springer, 2020._
 
 #### Azqa Nadeem
