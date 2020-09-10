@@ -1,3 +1,5 @@
+\* _For updated and regularly-maintained code, go to: https://github.com/tudelft-cda-lab/malpaca-pub_ 
+
 # MalPaCA (Malware Packet-sequence Clustering and Analysis)
 
 This repo contains the implementation of MalPaCA (Malware Packet-sequence Clustering and Analysis). Roughly, it does the following:
